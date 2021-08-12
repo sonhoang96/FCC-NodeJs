@@ -1,0 +1,19 @@
+{
+  "name": "fcc-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sonhoang96/FCC-NodeJs.git"
+  },
+  "author": "Steve",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sonhoang96/FCC-NodeJs/issues"
+  },
+  "homepage": "https://github.com/sonhoang96/FCC-NodeJs#readme"
+}
